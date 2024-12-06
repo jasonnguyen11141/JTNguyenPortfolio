@@ -49,6 +49,10 @@ body{
 
 }
 .ZM_EE{
-
     text-align: center;
+    transition: transform .2s;
+}
+
+.ZM_EE:hover{
+    transform: scale(1.1);
 }

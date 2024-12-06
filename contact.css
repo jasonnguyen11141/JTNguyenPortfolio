@@ -48,3 +48,23 @@ body{
     background-color: #fefae0;
 
 }
+section{
+
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    padding: 100px;
+    background-color: #faedcd;
+    border-radius: 25px;
+    font-size: larger;
+   
+
+}
+section a{
+    text-decoration: none;
+    padding: 50px;
+    color: blue;
+}
+section a:hover{
+    text-decoration: underline;
+}
