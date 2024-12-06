@@ -27,11 +27,12 @@ ul{
     list-style-type: none;
     font-size: 30px;
     margin: 0;
-    padding: 0;
+    padding-right: 60px;
     display: flex;
 }
 li{
- margin-left: 15px;
+ margin-left: 20px;
+ 
 }
 li a{
     display: block;
