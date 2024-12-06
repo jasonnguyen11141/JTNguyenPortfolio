@@ -4,7 +4,6 @@ body{
     margin: 40px;
     color: black;
     display: flex;
-    text-align: center;
     flex-direction: column;
 
 }
@@ -12,13 +11,11 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0% 50px 50px 50px;
 }
 h1 a{
     font-size: 30px;
     text-decoration: none;
     color: black;
-    padding-left: 70px;
 }
 nav{
     display: flex;
@@ -46,9 +43,13 @@ li a:hover{
 }
 body{
     background-color: #fefae0;
-
 }
-.ZM_EE{
-
-    text-align: center;
+section{
+    display: flex;
+    
+}
+p{
+    padding: 0px 50px 0px 50px ;
+    line-height: 1.4em;
+    font-size: 20px;
 }
