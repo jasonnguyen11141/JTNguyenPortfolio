@@ -57,3 +57,51 @@ body{
 .ZM_EE:hover{
     transform: scale(1.1);
 }
+
+.me {
+    padding: 50px 50px 0px 50px ;
+    line-height: 1.4em;
+    font-size: 20px;
+}
+
+.PDF{
+    padding-top: 20px;
+    
+}
+.PDF a{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 25px;
+}
+.links{
+
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    padding: 100px;
+    background-color: #faedcd;
+    border-radius: 25px;
+    font-size: larger;
+   
+
+}
+.links a{
+    text-decoration: none;
+    padding: 50px;
+    color: blue;
+}
+.links a:hover{
+    text-decoration: underline;
+}
+
+.zm_ab{
+    margin: 0 100px;
+    padding: 10px;
+}
+.zm_ab p {
+    line-height: 1.4em;
+    font-size: larger;
+}
