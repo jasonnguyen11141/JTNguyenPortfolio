@@ -105,3 +105,17 @@ body{
     line-height: 1.4em;
     font-size: larger;
 }
+.ZMPrototype{
+    padding-top: 25px;
+}
+.ZMPrototype a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 25px;
+}
+.ZMPrototype p{
+    font-size: smaller;
+}
