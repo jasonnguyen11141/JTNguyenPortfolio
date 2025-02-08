@@ -98,11 +98,14 @@ body{
 }
 
 .zm_ab{
-    margin: 0 100px;
-    padding: 10px;
+    margin: 0 500px;
+    
 }
 .zm_ab p {
     line-height: 1.4em;
+    font-size: larger;
+}
+.spitch{
     font-size: larger;
 }
 .ZMPrototype{
@@ -116,6 +119,9 @@ body{
     padding: 10px;
     border-radius: 25px;
 }
-.ZMPrototype p{
+.note p{
     font-size: smaller;
 }
+
+
+
